@@ -682,172 +682,172 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *INFO MENU*
-${symbol} ${prefix}ping
-${symbol} ${prefix}speed
-${symbol} ${prefix}botstatus
+${symbol2} ${prefix}ping
+${symbol2} ${prefix}speed
+${symbol2} ${prefix}botstatus
 
 ${symbol1} *HOSTING MENU*
-${symbol} ${prefix}domain <hostname|ip>
-${symbol} ${prefix}listdomain
-${symbol} ${prefix}shorlink
-${symbol} ${prefix}loginwhm
-${symbol} ${prefix}logincpanel
-${symbol} ${prefix}linkadd
-${symbol} ${prefix}linksubdo
+${symbol2} ${prefix}domain <hostname|ip>
+${symbol2} ${prefix}listdomain
+${symbol2} ${prefix}shorlink
+${symbol2} ${prefix}loginwhm
+${symbol2} ${prefix}logincpanel
+${symbol2} ${prefix}linkadd
+${symbol2} ${prefix}linksubdo
 
 ${symbol1} *DOWNLOADER MENU*
-${symbol} ${prefix}yts <query>
-${symbol} ${prefix}play <query>
-${symbol} ${prefix}ytmp3 <url>
-${symbol} ${prefix}ytmp4 <url>
-${symbol} ${prefix}tiktokwm <url>
-${symbol} ${prefix}tiktoknowm <url>
-${symbol} ${prefix}tiktokmp3 <url>
-${symbol} ${prefix}instagram <url>
-${symbol} ${prefix}facebook <url>
-${symbol} ${prefix}twitter <url>
-${symbol} ${prefix}twittermp3 <url>
-${symbol} ${prefix}joox <query>
-${symbol} ${prefix}pinterest
+${symbol2} ${prefix}yts <query>
+${symbol2} ${prefix}play <query>
+${symbol2} ${prefix}ytmp3 <url>
+${symbol2} ${prefix}ytmp4 <url>
+${symbol2} ${prefix}tiktokwm <url>
+${symbol2} ${prefix}tiktoknowm <url>
+${symbol2} ${prefix}tiktokmp3 <url>
+${symbol2} ${prefix}instagram <url>
+${symbol2} ${prefix}facebook <url>
+${symbol2} ${prefix}twitter <url>
+${symbol2} ${prefix}twittermp3 <url>
+${symbol2} ${prefix}joox <query>
+${symbol2} ${prefix}pinterest
 
 ${symbol1} *ASUPAN MENU*
-${symbol} ${prefix}santuy
-${symbol} ${prefix}bocil
-${symbol} ${prefix}ukhty
-${symbol} ${prefix}gheayuby
-${symbol} ${prefix}rika
+${symbol2} ${prefix}santuy
+${symbol2} ${prefix}bocil
+${symbol2} ${prefix}ukhty
+${symbol2} ${prefix}gheayuby
+${symbol2} ${prefix}rika
 
 ${symbol1} *FUN MENU*
-${symbol} ${prefix}afk <alasan>
-${symbol} ${prefix}simih <text>
-${symbol} ${prefix}halah <text>
-${symbol} ${prefix}hilih <text>
-${symbol} ${prefix}huluh <text>
-${symbol} ${prefix}heleh <text>
-${symbol} ${prefix}holoh <text>
-${symbol} ${prefix}jadian
-${symbol} ${prefix}jodohku
-${symbol} ${prefix}family100
-${symbol} ${prefix}tictactoe
-${symbol} ${prefix}delttt
-${symbol} ${prefix}tebak <option>
-${symbol} ${prefix}kuismath <mode>
-${symbol} ${prefix}suitpvp <@tag>
+${symbol2} ${prefix}afk <alasan>
+${symbol2} ${prefix}simih <text>
+${symbol2} ${prefix}halah <text>
+${symbol2} ${prefix}hilih <text>
+${symbol2} ${prefix}huluh <text>
+${symbol2} ${prefix}heleh <text>
+${symbol2} ${prefix}holoh <text>
+${symbol2} ${prefix}jadian
+${symbol2} ${prefix}jodohku
+${symbol2} ${prefix}family100
+${symbol2} ${prefix}tictactoe
+${symbol2} ${prefix}delttt
+${symbol2} ${prefix}tebak <option>
+${symbol2} ${prefix}kuismath <mode>
+${symbol2} ${prefix}suitpvp <@tag>
 
 ${symbol1} *CONVERT MENU*
-${symbol} ${prefix}ttp
-${symbol} ${prefix}attp
-${symbol} ${prefix}toimage
-${symbol} ${prefix}removebg
-${symbol} ${prefix}sticker
-${symbol} ${prefix}stickerwm
-${symbol} ${prefix}emojimix
-${symbol} ${prefix}emojimix2
-${symbol} ${prefix}tovideo
-${symbol} ${prefix}togif
-${symbol} ${prefix}tourl
-${symbol} ${prefix}tovn
-${symbol} ${prefix}tomp3
-${symbol} ${prefix}toaudio
-${symbol} ${prefix}ebinary
-${symbol} ${prefix}dbinary
-${symbol} ${prefix}styletext
-${symbol} ${prefix}smeme
+${symbol2} ${prefix}ttp
+${symbol2} ${prefix}attp
+${symbol2} ${prefix}toimage
+${symbol2} ${prefix}removebg
+${symbol2} ${prefix}sticker
+${symbol2} ${prefix}stickerwm
+${symbol2} ${prefix}emojimix
+${symbol2} ${prefix}emojimix2
+${symbol2} ${prefix}tovideo
+${symbol2} ${prefix}togif
+${symbol2} ${prefix}tourl
+${symbol2} ${prefix}tovn
+${symbol2} ${prefix}tomp3
+${symbol2} ${prefix}toaudio
+${symbol2} ${prefix}ebinary
+${symbol2} ${prefix}dbinary
+${symbol2} ${prefix}styletext
+${symbol2} ${prefix}smeme
 
 ${symbol1} *TEXT PRO MENU*
-${symbol} ${prefix}3dchristmas
-${symbol} ${prefix}3ddeepsea
-${symbol} ${prefix}americanflag
-${symbol} ${prefix}3dscifi
-${symbol} ${prefix}3drainbow
-${symbol} ${prefix}3dwaterpipe
-${symbol} ${prefix}halloweenskeleton
-${symbol} ${prefix}sketch
-${symbol} ${prefix}bluecircuit
-${symbol} ${prefix}space
-${symbol} ${prefix}metallic
-${symbol} ${prefix}fiction
-${symbol} ${prefix}greenhorror
-${symbol} ${prefix}transformer
-${symbol} ${prefix}berry
-${symbol} ${prefix}thunder
-${symbol} ${prefix}magma
-${symbol} ${prefix}3dcrackedstone
-${symbol} ${prefix}3dneonlight
-${symbol} ${prefix}impressiveglitch
-${symbol} ${prefix}naturalleaves
-${symbol} ${prefix}fireworksparkle
-${symbol} ${prefix}matrix
-${symbol} ${prefix}dropwater
-${symbol} ${prefix}harrypotter
-${symbol} ${prefix}foggywindow
-${symbol} ${prefix}neondevils
-${symbol} ${prefix}christmasholiday
-${symbol} ${prefix}3dgradient
-${symbol} ${prefix}blackpink
-${symbol} ${prefix}gluetext
+${symbol2} ${prefix}3dchristmas
+${symbol2} ${prefix}3ddeepsea
+${symbol2} ${prefix}americanflag
+${symbol2} ${prefix}3dscifi
+${symbol2} ${prefix}3drainbow
+${symbol2} ${prefix}3dwaterpipe
+${symbol2} ${prefix}halloweenskeleton
+${symbol2} ${prefix}sketch
+${symbol2} ${prefix}bluecircuit
+${symbol2} ${prefix}space
+${symbol2} ${prefix}metallic
+${symbol2} ${prefix}fiction
+${symbol2} ${prefix}greenhorror
+${symbol2} ${prefix}transformer
+${symbol2} ${prefix}berry
+${symbol2} ${prefix}thunder
+${symbol2} ${prefix}magma
+${symbol2} ${prefix}3dcrackedstone
+${symbol2} ${prefix}3dneonlight
+${symbol2} ${prefix}impressiveglitch
+${symbol2} ${prefix}naturalleaves
+${symbol2} ${prefix}fireworksparkle
+${symbol2} ${prefix}matrix
+${symbol2} ${prefix}dropwater
+${symbol2} ${prefix}harrypotter
+${symbol2} ${prefix}foggywindow
+${symbol2} ${prefix}neondevils
+${symbol2} ${prefix}christmasholiday
+${symbol2} ${prefix}3dgradient
+${symbol2} ${prefix}blackpink
+${symbol2} ${prefix}gluetext
 
 ${symbol1} *PHOTO OXY MENU*
-${symbol} ${prefix}shadow
-${symbol} ${prefix}romantic
-${symbol} ${prefix}smoke
-${symbol} ${prefix}burnpapper
-${symbol} ${prefix}naruto
-${symbol} ${prefix}lovemsg
-${symbol} ${prefix}grassmsg
-${symbol} ${prefix}lovetext
-${symbol} ${prefix}coffecup
-${symbol} ${prefix}butterfly
-${symbol} ${prefix}harrypotter
-${symbol} ${prefix}retrolol
+${symbol2} ${prefix}shadow
+${symbol2} ${prefix}romantic
+${symbol2} ${prefix}smoke
+${symbol2} ${prefix}burnpapper
+${symbol2} ${prefix}naruto
+${symbol2} ${prefix}lovemsg
+${symbol2} ${prefix}grassmsg
+${symbol2} ${prefix}lovetext
+${symbol2} ${prefix}coffecup
+${symbol2} ${prefix}butterfly
+${symbol2} ${prefix}harrypotter
+${symbol2} ${prefix}retrolol
 
 ${symbol1} *EPHOTO MENU*
-${symbol} ${prefix}ffcover
-${symbol} ${prefix}crossfire
-${symbol} ${prefix}galaxy
-${symbol} ${prefix}glass
-${symbol} ${prefix}neon
-${symbol} ${prefix}beach
-${symbol} ${prefix}blackpink
-${symbol} ${prefix}igcertificate
-${symbol} ${prefix}ytcertificate
+${symbol2} ${prefix}ffcover
+${symbol2} ${prefix}crossfire
+${symbol2} ${prefix}galaxy
+${symbol2} ${prefix}glass
+${symbol2} ${prefix}neon
+${symbol2} ${prefix}beach
+${symbol2} ${prefix}blackpink
+${symbol2} ${prefix}igcertificate
+${symbol2} ${prefix}ytcertificate
 
 ${symbol1} *GROUP MENU*
-${symbol} ${prefix}linkgroup
-${symbol} ${prefix}hidetag <text>
-${symbol} ${prefix}tagall <text>
-${symbol} ${prefix}totag <reply>
-${symbol} ${prefix}antilink <on/off>
-${symbol} ${prefix}setppgc <image>
-${symbol} ${prefix}setname <text>
-${symbol} ${prefix}setdesc <text>
-${symbol} ${prefix}group <option>
-${symbol} ${prefix}editinfo <option>
-${symbol} ${prefix}mute <on/off>
-${symbol} ${prefix}add @user
-${symbol} ${prefix}kick @user
-${symbol} ${prefix}promote @user
-${symbol} ${prefix}demote @user
-${symbol} ${prefix}vote <text>
-${symbol} ${prefix}devote
-${symbol} ${prefix}upvote
-${symbol} ${prefix}cekvote
-${symbol} ${prefix}hapusvote
+${symbol2} ${prefix}linkgroup
+${symbol2} ${prefix}hidetag <text>
+${symbol2} ${prefix}tagall <text>
+${symbol2} ${prefix}totag <reply>
+${symbol2} ${prefix}antilink <on/off>
+${symbol2} ${prefix}setppgc <image>
+${symbol2} ${prefix}setname <text>
+${symbol2} ${prefix}setdesc <text>
+${symbol2} ${prefix}group <option>
+${symbol2} ${prefix}editinfo <option>
+${symbol2} ${prefix}mute <on/off>
+${symbol2} ${prefix}add @user
+${symbol2} ${prefix}kick @user
+${symbol2} ${prefix}promote @user
+${symbol2} ${prefix}demote @user
+${symbol2} ${prefix}vote <text>
+${symbol2} ${prefix}devote
+${symbol2} ${prefix}upvote
+${symbol2} ${prefix}cekvote
+${symbol2} ${prefix}hapusvote
 
 ${symbol1} *OWNER MENU*
-${symbol} ${prefix}sewa
-${symbol} ${prefix}chat <option>
-${symbol} ${prefix}join <link>
-${symbol} ${prefix}leave
-${symbol} ${prefix}block @user
-${symbol} ${prefix}unblock @user
-${symbol} ${prefix}bcgroup <text>
-${symbol} ${prefix}bcall <text>
-${symbol} ${prefix}setppbot <image>
-${symbol} ${prefix}setmenu <option>
-${symbol} ${prefix}public
-${symbol} ${prefix}self
-${symbol} ${prefix}setexif
+${symbol2} ${prefix}sewa
+${symbol2} ${prefix}chat <option>
+${symbol2} ${prefix}join <link>
+${symbol2} ${prefix}leave
+${symbol2} ${prefix}block @user
+${symbol2} ${prefix}unblock @user
+${symbol2} ${prefix}bcgroup <text>
+${symbol2} ${prefix}bcall <text>
+${symbol2} ${prefix}setppbot <image>
+${symbol2} ${prefix}setmenu <option>
+${symbol2} ${prefix}public
+${symbol2} ${prefix}self
+${symbol2} ${prefix}setexif
 `
 let btn = [{
                                 urlButton: {
@@ -915,9 +915,9 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *INFO MENU*
-${symbol} ${prefix}ping
-${symbol} ${prefix}speed
-${symbol} ${prefix}botstatus
+${symbol2} ${prefix}ping
+${symbol2} ${prefix}speed
+${symbol2} ${prefix}botstatus
 `
 let btn = [{
                                 urlButton: {
@@ -984,13 +984,13 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *HOSTING MENU*
-${symbol} ${prefix}domain <hostname|ip>
-${symbol} ${prefix}listdomain
-${symbol} ${prefix}shorlink
-${symbol} ${prefix}loginwhm
-${symbol} ${prefix}logincpanel
-${symbol} ${prefix}linkadd
-${symbol} ${prefix}linksubdo
+${symbol2} ${prefix}domain <hostname|ip>
+${symbol2} ${prefix}listdomain
+${symbol2} ${prefix}shorlink
+${symbol2} ${prefix}loginwhm
+${symbol2} ${prefix}logincpanel
+${symbol2} ${prefix}linkadd
+${symbol2} ${prefix}linksubdo
 `
 let btn = [{
                                 urlButton: {
@@ -1057,19 +1057,19 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *DOWNLOADER MENU*
-${symbol} ${prefix}yts <query>
-${symbol} ${prefix}play <query>
-${symbol} ${prefix}ytmp3 <url>
-${symbol} ${prefix}ytmp4 <url>
-${symbol} ${prefix}tiktokwm <url>
-${symbol} ${prefix}tiktoknowm <url>
-${symbol} ${prefix}tiktokmp3 <url>
-${symbol} ${prefix}instagram <url>
-${symbol} ${prefix}facebook <url>
-${symbol} ${prefix}twitter <url>
-${symbol} ${prefix}twittermp3 <url>
-${symbol} ${prefix}joox <query>
-${symbol} ${prefix}pinterest
+${symbol2} ${prefix}yts <query>
+${symbol2} ${prefix}play <query>
+${symbol2} ${prefix}ytmp3 <url>
+${symbol2} ${prefix}ytmp4 <url>
+${symbol2} ${prefix}tiktokwm <url>
+${symbol2} ${prefix}tiktoknowm <url>
+${symbol2} ${prefix}tiktokmp3 <url>
+${symbol2} ${prefix}instagram <url>
+${symbol2} ${prefix}facebook <url>
+${symbol2} ${prefix}twitter <url>
+${symbol2} ${prefix}twittermp3 <url>
+${symbol2} ${prefix}joox <query>
+${symbol2} ${prefix}pinterest
 `
 let btn = [{
                                 urlButton: {
@@ -1136,26 +1136,26 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *GROUP MENU*
-${symbol} ${prefix}linkgroup
-${symbol} ${prefix}hidetag <text>
-${symbol} ${prefix}tagall <text>
-${symbol} ${prefix}totag <reply>
-${symbol} ${prefix}antilink <on/off>
-${symbol} ${prefix}setppgc <image>
-${symbol} ${prefix}setname <text>
-${symbol} ${prefix}setdesc <text>
-${symbol} ${prefix}group <option>
-${symbol} ${prefix}editinfo <option>
-${symbol} ${prefix}mute <on/off>
-${symbol} ${prefix}add @user
-${symbol} ${prefix}kick @user
-${symbol} ${prefix}promote @user
-${symbol} ${prefix}demote @user
-${symbol} ${prefix}vote <text>
-${symbol} ${prefix}devote
-${symbol} ${prefix}upvote
-${symbol} ${prefix}cekvote
-${symbol} ${prefix}hapusvote
+${symbol2} ${prefix}linkgroup
+${symbol2} ${prefix}hidetag <text>
+${symbol2} ${prefix}tagall <text>
+${symbol2} ${prefix}totag <reply>
+${symbol2} ${prefix}antilink <on/off>
+${symbol2} ${prefix}setppgc <image>
+${symbol2} ${prefix}setname <text>
+${symbol2} ${prefix}setdesc <text>
+${symbol2} ${prefix}group <option>
+${symbol2} ${prefix}editinfo <option>
+${symbol2} ${prefix}mute <on/off>
+${symbol2} ${prefix}add @user
+${symbol2} ${prefix}kick @user
+${symbol2} ${prefix}promote @user
+${symbol2} ${prefix}demote @user
+${symbol2} ${prefix}vote <text>
+${symbol2} ${prefix}devote
+${symbol2} ${prefix}upvote
+${symbol2} ${prefix}cekvote
+${symbol2} ${prefix}hapusvote
 `
 let btn = [{
                                 urlButton: {
@@ -1222,19 +1222,19 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *OWNER MENU*
-${symbol} ${prefix}sewa
-${symbol} ${prefix}chat <option>
-${symbol} ${prefix}join <link>
-${symbol} ${prefix}leave
-${symbol} ${prefix}block @user
-${symbol} ${prefix}unblock @user
-${symbol} ${prefix}bcgroup <text>
-${symbol} ${prefix}bcall <text>
-${symbol} ${prefix}setppbot <image>
-${symbol} ${prefix}setmenu <option>
-${symbol} ${prefix}public
-${symbol} ${prefix}self
-${symbol} ${prefix}setexif
+${symbol2} ${prefix}sewa
+${symbol2} ${prefix}chat <option>
+${symbol2} ${prefix}join <link>
+${symbol2} ${prefix}leave
+${symbol2} ${prefix}block @user
+${symbol2} ${prefix}unblock @user
+${symbol2} ${prefix}bcgroup <text>
+${symbol2} ${prefix}bcall <text>
+${symbol2} ${prefix}setppbot <image>
+${symbol2} ${prefix}setmenu <option>
+${symbol2} ${prefix}public
+${symbol2} ${prefix}self
+${symbol2} ${prefix}setexif
 `
 let btn = [{
                                 urlButton: {
@@ -1301,24 +1301,24 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *CONVERT MENU*
-${symbol} ${prefix}ttp
-${symbol} ${prefix}attp
-${symbol} ${prefix}toimage
-${symbol} ${prefix}removebg
-${symbol} ${prefix}sticker
-${symbol} ${prefix}stickerwm
-${symbol} ${prefix}emojimix
-${symbol} ${prefix}emojimix2
-${symbol} ${prefix}tovideo
-${symbol} ${prefix}togif
-${symbol} ${prefix}tourl
-${symbol} ${prefix}tovn
-${symbol} ${prefix}tomp3
-${symbol} ${prefix}toaudio
-${symbol} ${prefix}ebinary
-${symbol} ${prefix}dbinary
-${symbol} ${prefix}styletext
-${symbol} ${prefix}smeme
+${symbol2} ${prefix}ttp
+${symbol2} ${prefix}attp
+${symbol2} ${prefix}toimage
+${symbol2} ${prefix}removebg
+${symbol2} ${prefix}sticker
+${symbol2} ${prefix}stickerwm
+${symbol2} ${prefix}emojimix
+${symbol2} ${prefix}emojimix2
+${symbol2} ${prefix}tovideo
+${symbol2} ${prefix}togif
+${symbol2} ${prefix}tourl
+${symbol2} ${prefix}tovn
+${symbol2} ${prefix}tomp3
+${symbol2} ${prefix}toaudio
+${symbol2} ${prefix}ebinary
+${symbol2} ${prefix}dbinary
+${symbol2} ${prefix}styletext
+${symbol2} ${prefix}smeme
 `
 let btn = [{
                                 urlButton: {
@@ -1385,11 +1385,11 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *ASUPAN MENU*
-${symbol} ${prefix}santuy
-${symbol} ${prefix}bocil
-${symbol} ${prefix}ukhty
-${symbol} ${prefix}gheayuby
-${symbol} ${prefix}rika
+${symbol2} ${prefix}santuy
+${symbol2} ${prefix}bocil
+${symbol2} ${prefix}ukhty
+${symbol2} ${prefix}gheayuby
+${symbol2} ${prefix}rika
 `
 let btn = [{
                                 urlButton: {
@@ -1456,21 +1456,21 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *FUN MENU*
-${symbol} ${prefix}afk <alasan> 
-${symbol} ${prefix}simih <text> 
-${symbol} ${prefix}halah <text> 
-${symbol} ${prefix}hilih <text> 
-${symbol} ${prefix}huluh <text> 
-${symbol} ${prefix}heleh <text> 
-${symbol} ${prefix}holoh <text>
-${symbol} ${prefix}jadian 
-${symbol} ${prefix}jodohku 
-${symbol} ${prefix}family100 
-${symbol} ${prefix}tictactoe 
-${symbol} ${prefix}delttt 
-${symbol} ${prefix}tebak <option> 
-${symbol} ${prefix}math <mode> 
-${symbol} ${prefix}suitpvp <@tag>
+${symbol2} ${prefix}afk <alasan> 
+${symbol2} ${prefix}simih <text> 
+${symbol2} ${prefix}halah <text> 
+${symbol2} ${prefix}hilih <text> 
+${symbol2} ${prefix}huluh <text> 
+${symbol2} ${prefix}heleh <text> 
+${symbol2} ${prefix}holoh <text>
+${symbol2} ${prefix}jadian 
+${symbol2} ${prefix}jodohku 
+${symbol2} ${prefix}family100 
+${symbol2} ${prefix}tictactoe 
+${symbol2} ${prefix}delttt 
+${symbol2} ${prefix}tebak <option> 
+${symbol2} ${prefix}math <mode> 
+${symbol2} ${prefix}suitpvp <@tag>
 `
 let btn = [{
                                 urlButton: {
@@ -1537,37 +1537,37 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *TEXT PRO MENU*
-${symbol} ${prefix}3dchristmas
-${symbol} ${prefix}3ddeepsea
-${symbol} ${prefix}americanflag
-${symbol} ${prefix}3dscifi
-${symbol} ${prefix}3drainbow
-${symbol} ${prefix}3dwaterpipe
-${symbol} ${prefix}halloweenskeleton
-${symbol} ${prefix}sketch
-${symbol} ${prefix}bluecircuit
-${symbol} ${prefix}space
-${symbol} ${prefix}metallic
-${symbol} ${prefix}fiction
-${symbol} ${prefix}greenhorror
-${symbol} ${prefix}transformer
-${symbol} ${prefix}berry
-${symbol} ${prefix}thunder
-${symbol} ${prefix}magma
-${symbol} ${prefix}3dcrackedstone
-${symbol} ${prefix}3dneonlight
-${symbol} ${prefix}impressiveglitch
-${symbol} ${prefix}naturalleaves
-${symbol} ${prefix}fireworksparkle
-${symbol} ${prefix}matrix
-${symbol} ${prefix}dropwater
-${symbol} ${prefix}harrypotter
-${symbol} ${prefix}foggywindow
-${symbol} ${prefix}neondevils
-${symbol} ${prefix}christmasholiday
-${symbol} ${prefix}3dgradient
-${symbol} ${prefix}blackpink
-${symbol} ${prefix}gluetext
+${symbol2} ${prefix}3dchristmas
+${symbol2} ${prefix}3ddeepsea
+${symbol2} ${prefix}americanflag
+${symbol2} ${prefix}3dscifi
+${symbol2} ${prefix}3drainbow
+${symbol2} ${prefix}3dwaterpipe
+${symbol2} ${prefix}halloweenskeleton
+${symbol2} ${prefix}sketch
+${symbol2} ${prefix}bluecircuit
+${symbol2} ${prefix}space
+${symbol2} ${prefix}metallic
+${symbol2} ${prefix}fiction
+${symbol2} ${prefix}greenhorror
+${symbol2} ${prefix}transformer
+${symbol2} ${prefix}berry
+${symbol2} ${prefix}thunder
+${symbol2} ${prefix}magma
+${symbol2} ${prefix}3dcrackedstone
+${symbol2} ${prefix}3dneonlight
+${symbol2} ${prefix}impressiveglitch
+${symbol2} ${prefix}naturalleaves
+${symbol2} ${prefix}fireworksparkle
+${symbol2} ${prefix}matrix
+${symbol2} ${prefix}dropwater
+${symbol2} ${prefix}harrypotter
+${symbol2} ${prefix}foggywindow
+${symbol2} ${prefix}neondevils
+${symbol2} ${prefix}christmasholiday
+${symbol2} ${prefix}3dgradient
+${symbol2} ${prefix}blackpink
+${symbol2} ${prefix}gluetext
 `
 let btn = [{
                                 urlButton: {
@@ -1634,18 +1634,18 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *PHOTO OXY MENU*
-${symbol} ${prefix}shadow
-${symbol} ${prefix}romantic
-${symbol} ${prefix}smoke
-${symbol} ${prefix}burnpapper
-${symbol} ${prefix}naruto
-${symbol} ${prefix}lovemsg
-${symbol} ${prefix}grassmsg
-${symbol} ${prefix}lovetext
-${symbol} ${prefix}coffecup
-${symbol} ${prefix}butterfly
-${symbol} ${prefix}harrypotter
-${symbol} ${prefix}retrolol
+${symbol2} ${prefix}shadow
+${symbol2} ${prefix}romantic
+${symbol2} ${prefix}smoke
+${symbol2} ${prefix}burnpapper
+${symbol2} ${prefix}naruto
+${symbol2} ${prefix}lovemsg
+${symbol2} ${prefix}grassmsg
+${symbol2} ${prefix}lovetext
+${symbol2} ${prefix}coffecup
+${symbol2} ${prefix}butterfly
+${symbol2} ${prefix}harrypotter
+${symbol2} ${prefix}retrolol
 `
 let btn = [{
                                 urlButton: {
@@ -1712,15 +1712,15 @@ ${symbol2} WITA : ${moment().utcOffset('+0800').format('HH:mm')}
 
 
 ${symbol1} *EPHOTO MENU*
-${symbol} ${prefix}ffcover
-${symbol} ${prefix}crossfire
-${symbol} ${prefix}galaxy
-${symbol} ${prefix}glass
-${symbol} ${prefix}neon
-${symbol} ${prefix}beach
-${symbol} ${prefix}blackpink
-${symbol} ${prefix}igcertificate
-${symbol} ${prefix}ytcertificate
+${symbol2} ${prefix}ffcover
+${symbol2} ${prefix}crossfire
+${symbol2} ${prefix}galaxy
+${symbol2} ${prefix}glass
+${symbol2} ${prefix}neon
+${symbol2} ${prefix}beach
+${symbol2} ${prefix}blackpink
+${symbol2} ${prefix}igcertificate
+${symbol2} ${prefix}ytcertificate
 `
 let btn = [{
                                 urlButton: {
