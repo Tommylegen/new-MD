@@ -12,17 +12,17 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['Danzz-Botz']
-global.namaowner = ['DanzzCoding']
-global.owner = ['6288296339947']
-global.premium = ['6288296339947']
+global.namabot = ['Patrick-Botz']
+global.namaowner = ['RajaDev']
+global.owner = ['6289505054287']
+global.premium = ['6289505054287']
 global.packname = '© Created By'
-global.author = 'DanzzXCode'
+global.author = 'RajaXCode'
 global.sessionName = 'session.data'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.symbol1 = '•'
 global.symbol2 = '>'
-global.wm = '© Danzz Coding'
+global.wm = '© RajaDev Coding'
 global.mess = {
     success: 'Success ✓',
     admin: 'Fitur Khusus Admin Group!',
