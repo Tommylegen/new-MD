@@ -21,7 +21,7 @@ global.author = 'RajaXCode'
 global.sessionName = 'session.data'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.symbol1 = '•'
-global.symbol2 = '>'
+global.symbol2 = '›'
 global.wm = '© RajaDev Coding'
 global.mess = {
     success: 'Success ✓',
